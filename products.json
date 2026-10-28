@@ -1,0 +1,46 @@
+{
+  "store": "WizardFit Beach Accessories",
+  "tier": "Fast to semi-fast",
+  "products": [
+    {
+      "name": "Chrome Beach Towel",
+      "desc": "Oversized, quick dry.",
+      "price_planning": "$45"
+    },
+    {
+      "name": "Beach Tote Set",
+      "desc": "Tote + pouch.",
+      "price_planning": "$55"
+    },
+    {
+      "name": "Polarized Beach Shades",
+      "desc": "Beach polarized, UV400.",
+      "price_planning": "$65"
+    },
+    {
+      "name": "Beach Cooler Bag",
+      "desc": "Insulated, compact.",
+      "price_planning": "$49"
+    },
+    {
+      "name": "Sun Hat Chrome",
+      "desc": "Wide brim, packable.",
+      "price_planning": "$39"
+    },
+    {
+      "name": "Beach Blanket XL",
+      "desc": "Sand-resistant, XL.",
+      "price_planning": "$59"
+    },
+    {
+      "name": "Waterproof Pouch Set",
+      "desc": "Phone + valuables.",
+      "price_planning": "$25"
+    },
+    {
+      "name": "Beach Game Set",
+      "desc": "Portable, family.",
+      "price_planning": "$35"
+    }
+  ]
+}
